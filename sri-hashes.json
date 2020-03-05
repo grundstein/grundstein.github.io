@@ -1,19 +1,18 @@
 {
-  "css": "sha384-/tvoC8gnKXzdbKUM07RLzssL0j/hOhzF3at8pJy3w9PflWpEzhzEjj9nEyH0EMrl",
-  "js": "sha384-QP4JAga3cYgya50h+RlvE+4LqL5WirtVc3ibRq+vPBEqNlrJkVMwuZBTOiieK+zu",
+  "css": "sha384-sQxFUlRyhD2eBwHcGRU2eeAvxv0C1AbGHIj0wU5FalMc5aGZblZS4RUUYKybcjS3",
+  "js": "sha384-28VP0vF79yADeGO2BD/INO7pgjqarodX1QtOjFdwW2Axql+X1axNw0qezvQSLWcE",
   "pages": {
-    "/": "sha384-PQE9Bxeb/zBIvFj5ZHtKtLLAneqKLTx/hE4veWsIZ3L/nuXbFw7VBlBSVKW33nrL",
-    "/404/": "sha384-Ka0nAJY3Otvu8faUhlcflL8eDDvzt5Km+UpC4C5eUZJIIznJrETMudj8b8FKMVNa",
-    "/canary/": "sha384-1XBFhxQLVW033D2F6n/ON4UuygMSJauWQMA+g/Xig+/WAvh6BSehDvR2RtohuP7e",
-    "/getting-started/": "sha384-qCWQTIRl7PbHkRkODqdmdh07/tm2SndXbtUf13Hp8tbgOZd7TX1c7WY0/hhFKE07",
-    "/privacy/": "sha384-ipHDFwAqMIQi0JljG8Q+McgOMjz24rPUcVb3L1TFL+9b+H0uU0AU41wTp0LHX9E/",
-    "/support/": "sha384-kqPykk+oJaKBzGCabs/WnjOwnwx+yOPDsWv6Z9wrtHjc73MnKCc3SLUcB86BuqQ/"
+    "/": "sha384-YkRcKocLBlViSdLnQD0MK3zBSajl+/2LlOahAjrEWeOQpL4WSmEc/Bw6X58vc2DZ",
+    "/404/": "sha384-7EAzf4gOOnU+riuVZ7Phf0eCIz+o47dj5Od34NrPAwUSzZ5sU5r7uC8qzEemSbd8",
+    "/canary/": "sha384-RD+rpi0bkwf67rQzvLvxyKWCARr9hxfGgB4shtsCKKw/y1q0S7YXz2Ot0ZXLENH1",
+    "/getting-started/": "sha384-cLaKMGCDqDUODOl4PU8Mp1PW7u/XMOqlcRKiZ3nz7lwj1OwvRq0tL4Ad6LonZJT3",
+    "/privacy/": "sha384-rNxddsetAdcGMijDyFgxfQhwiAjUGIubJje8JscpAN5+tM0/1Psh9Avbxz/UHP6E"
   },
   "static": {
     "/CNAME": "sha384-g8gKqJugO1bk77j1qWRZMENkQU8mTP5hHAdbCfDEo5g25cxBVU61Pi20XjatAldC",
-    "/favicon.ico": "sha384-ekfesX9Ahk0F9Ahl93vW7PJ5GtbdVhice+2z54EDDOL1elr2WZ/sJ58mZRnIpRY+",
+    "/favicon.ico": "sha384-fCeh3gJITU2Cc8+MwvVgFbGDb8DQ8zn/j2QDZKMUyNpww7wsH0ZF6QmzPR51Wtld",
     "/grundstein-preview.jpg": "sha384-gffGepLOkjxhV1iFHtueHmrXwnwUN9BpbnqU5elD4EiJmIc6WXtihJ7qAsxWqDQF",
     "/robots.txt": "sha384-mA3rpTZKO0385tEl8gWxXcP5+jJGXx7yrSTvD9ZaYsPOmg3lw58k/rT4FP3ieD7z",
-    "/sitemap.xml": "sha384-W7aaS5tkOWdQvY2kI0bpip3J8TlbRy6fCTbr2FGGcf5pERb+yBlFCJ26UBPw7HRb"
+    "/sitemap.xml": "sha384-9oT2HVUoaIJbEfDUR1udzp7iVWNgXvJV7wEbNTYevS5CcqibGFNN9gWTgCQLLvW3"
   }
 }
