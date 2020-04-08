@@ -6,36 +6,15 @@
 >
 
 <url>
-  <loc>https://grundstein.it/</loc>
-  <lastmod>2020-03-06</lastmod>
+  <loc>https://docs.grundstein.it/</loc>
+  <lastmod>2020-04-08</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
-  <loc>https://grundstein.it/404/</loc>
-  <lastmod>2020-03-06</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
-</url>
-
-<url>
-  <loc>https://grundstein.it/canary/</loc>
-  <lastmod>2020-03-06</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
-</url>
-
-<url>
-  <loc>https://grundstein.it/getting-started/</loc>
-  <lastmod>2020-03-06</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
-</url>
-
-<url>
-  <loc>https://grundstein.it/privacy/</loc>
-  <lastmod>2020-03-06</lastmod>
+  <loc>https://docs.grundstein.it/404/</loc>
+  <lastmod>2020-04-08</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
