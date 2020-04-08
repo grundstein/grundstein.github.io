@@ -20,6 +20,5 @@ export const state = {
 
   menu: [
     { to: '/', text: 'about' },
-    { to: '/getting-started/', text: 'getting started' },
   ],
 }
