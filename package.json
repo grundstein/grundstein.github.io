@@ -5,7 +5,7 @@
   "author": "Wizards & Witches @ Work",
   "description": "@grundstein org github page.",
   "license": "AGPL-3.0",
-  "homepage": "https://grundstein.github.io",
+  "homepage": "https://docs.grundstein.it",
   "engines": {
     "node": ">=13.5.0"
   },
@@ -36,6 +36,14 @@
     "@magic/format": "0.0.7",
     "@magic/test": "0.1.40"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grundstein/grundstein.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grundstein/grundstein.github.io/issues"
+  },
+
   "keywords": [
     "grundstein",
     "infrastructure",
