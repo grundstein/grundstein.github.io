@@ -18,7 +18,5 @@ export const state = {
     },
   },
 
-  menu: [
-    { to: '/', text: 'about' },
-  ],
+  menu: [{ to: '/', text: 'about' }],
 }
