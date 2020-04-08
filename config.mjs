@@ -8,8 +8,8 @@ export default {
   THEME: ['project', '@grundstein/magic-theme'],
 
   WEB_ROOT: '/',
-  URL: 'grundstein.it',
-  CNAME: 'grundstein.it',
+  URL: 'docs.grundstein.it',
+  CNAME: 'docs.grundstein.it',
 
   HOIST: ['LightSwitch', 'Gdpr'],
 
