@@ -19,19 +19,17 @@ most documentation on this page will not be accurate (yet).
 
 @grundstein is our approach to hosting infrastructure and maintenance.
 
+This is the entry page for the documentation. It is very much Work in Progress.
+
 it is (currently in the process of being) purpose built for the
-[@magic](https://magic.github.io) [jamstack](https://jamstack.org) generator.
+[magic](https://magic.github.io) jamstack generator.
 
 ### our goals
 
 reproducible and verifiable builds, down to the kernel.
 
-minimal dependencies on all layers.
+minimal dependencies on all layers, all services custom built.
 
 free (as in freedom) and open source toolchain.
-
-"not invented here" sometimes is a good thing.
-
-language agnosticity, with a focus on erlang, nodejs and rust support.
 
 </div>
