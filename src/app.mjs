@@ -6,9 +6,9 @@ export const state = {
 
   seo: {
     name: '@grundstein',
-    url: `https://grundstein.it/`,
+    url: `https://grundstein.github.io/`,
     about: 'the wise build their house on a rock. hosting without hassle.',
-    image: `https://grundstein.it/grundstein-preview.jpg`,
+    image: `https://grundstein.github.io/grundstein-preview.jpg`,
     author: {
       '@type': 'person',
       name: 'Jascha Ehrenreich',
@@ -18,5 +18,8 @@ export const state = {
     },
   },
 
-  menu: [{ to: '/', text: 'about' }],
+  menu: [
+    { to: '/', text: 'about' },
+    { to: '/getting-started/', text: 'getting started' },
+  ],
 }
